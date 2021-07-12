@@ -1,28 +1,28 @@
-3_Implementation/src/stock.c:90:6: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+3_Implementation/src/stock.c:89:6: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
      scanf("%s", &c.name);
      ^
-3_Implementation/src/stock.c:98:6: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+3_Implementation/src/stock.c:97:6: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
      scanf("%s", &c.name);
      ^
-3_Implementation/src/stock.c:142:2: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+3_Implementation/src/stock.c:141:2: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
  scanf("%s", &c.name);
  ^
-3_Implementation/src/stock.c:26:8: style: The scope of the variable 'fpo' can be reduced. [variableScope]
+3_Implementation/src/stock.c:25:8: style: The scope of the variable 'fpo' can be reduced. [variableScope]
  FILE *fpo;
        ^
-3_Implementation/src/stock.c:27:8: style: The scope of the variable 'fpt' can be reduced. [variableScope]
+3_Implementation/src/stock.c:26:8: style: The scope of the variable 'fpt' can be reduced. [variableScope]
  FILE *fpt;
        ^
-3_Implementation/src/stock.c:28:9: style: The scope of the variable 's' can be reduced. [variableScope]
+3_Implementation/src/stock.c:27:9: style: The scope of the variable 's' can be reduced. [variableScope]
  int r, s;
         ^
-3_Implementation/src/stock.c:60:8: style: The scope of the variable 'fpt' can be reduced. [variableScope]
+3_Implementation/src/stock.c:59:8: style: The scope of the variable 'fpt' can be reduced. [variableScope]
  FILE *fpt;
        ^
-3_Implementation/src/stock.c:61:8: style: The scope of the variable 'fpo' can be reduced. [variableScope]
+3_Implementation/src/stock.c:60:8: style: The scope of the variable 'fpo' can be reduced. [variableScope]
  FILE *fpo;
        ^
-3_Implementation/src/stock.c:62:6: style: The scope of the variable 's' can be reduced. [variableScope]
+3_Implementation/src/stock.c:61:6: style: The scope of the variable 's' can be reduced. [variableScope]
  int s, r, ch;
      ^
 3_Implementation/unity/unity.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 42 configurations. Use --force to check all configurations. [toomanyconfigs]
