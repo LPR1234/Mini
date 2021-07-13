@@ -12,19 +12,19 @@ This project is a console application using the C programming language. This pro
 
 ### *Who:*
 
-This Project can be used by University. This system will make their work simple.
+This Project can be used by Whole sale & Retail Shopkeepers. This system will make their work simple.
 
 ### *What:*
 
-Adding, Deleting, viewing and searching of book can be done by this project without manual effort of the librarian.
+Adding, Deleting, viewing and searching of components can be done by this project without manual effort of the human.
 
 ### *When:*
 
-When there is need to added to issue book by the student
+When there is need to added to new component list and deleting the out of stock by shopkeeper.
 
 ### *Where:*
 
-This system is used in University.
+This system is used in Retail & Wholesale shopkeers to analyze the stock.
 
 ### *How:*
 
@@ -38,14 +38,17 @@ System design is a solution for how to approach to the creation of a new system.
 |----|-----------|---------|
 |HR_01  |Operating System(Windows10/Linux)|	Implemented|
 |HR_02	|C Language	|Implemented|
-|HR_03	|Platinum IV Processor	|Implemented|
-|HR_04	|RAM(512 MB)	|Implemented|
-|HR_05	|Hard Disk(2 GB)	|Implemented|
+
+   - Trap the system requirements such as software installation.
+ 
+   - Analyse the project plannings include boundaries in work, constraints and performance.
+   
 ## *Low Level Requirements*
+
 |Id |	Description	| Status|
 |----|-----------|---------|
 |LR_01	|Function to Add Components	|Implemented|
 |LR_02	|Function to View Component List	|Implemented|
-|LR_03  |	Function to Delete Components	|Implemented|
-|LR_04  |	Function to Update Components| Implemented|
-|LR_05  |	Security	|Future|
+|LR_03  |Function to Delete Components	|Implemented|
+|LR_04  |Function to Update Components| Implemented|
+|LR_05  |Security	|Future|
