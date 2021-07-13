@@ -1,6 +1,7 @@
 # Stock Inventory System
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ec6b57e20b444df0b019371c3270b128)](https://app.codacy.com/gh/LPR1234/Mini?utm_source=github.com&utm_medium=referral&utm_content=LPR1234/Mini&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/LPR1234/Mini/actions/workflows/main.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/main.yml)
 [![cppcheck-action-test](https://github.com/LPR1234/Mini/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/cppcheck.yml)
 [![Contribution Check - Git Inspector](https://github.com/LPR1234/Mini/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/gitinspector.yml)
