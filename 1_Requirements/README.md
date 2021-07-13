@@ -34,10 +34,10 @@ System design is a solution for how to approach to the creation of a new system.
 
 *SWOT*	|*Analysis* |
 |--------|-----------|
-|Strength	|1. This project involves adding and maintaining Components records 2. Reduction of manual work 3. Easy to use 4. Removes manual process of calculating and analyzing the stock to save time and effort|           
-|Weakness	|1. Program can breakdown and give false results 2. online systems require good connection 3.  Limits the knowledge of the user 4. open-source systems stores data on computer hardware. This increases the risk of data loss.|
-|Opportunity	|1. Mobile application can be developed 2. Helps Retail & Wholesale shopkeepers during these pandemic times|
-|Threat	|1. since these information are accessible by everyone we need to apply another level of security model to apply for user access.  2. user authentication need to be implemented|
+|Strength	| This project involves adding and maintaining Components records. Reduction of manual work. Easy to use. Removes manual process of calculating and analyzing the stock to save time and effort.|           
+|Weakness	| Program can breakdown and give false results. Online systems require good connection. Limits the knowledge of the user. Open-source systems stores data on computer hardware. This increases the risk of data loss.|
+|Opportunity	| Mobile application can be developed. Helps Retail & Wholesale shopkeepers during these pandemic times.|
+|Threat	| Since these information are accessible by everyone we need to apply another level of security model to apply for user access. User authentication need to be implemented.|
 
 
 # Detail Requirements
