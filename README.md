@@ -3,13 +3,9 @@
 
 
 # Git Actions
-
-[![CI](https://github.com/LPR1234/Mini/actions/workflows/main.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/main.yml)
-[![cppcheck-action-test](https://github.com/LPR1234/Mini/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/cppcheck.yml)
-[![Contribution Check - Git Inspector](https://github.com/LPR1234/Mini/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/gitinspector.yml)
-[![Code Quality Score](https://www.code-inspector.com/project/25151/score/svg)](https://frontend.code-inspector.com/project/25151/dashboard)
-[![Code Grade](https://www.code-inspector.com/project/25151/status/svg)](https://frontend.code-inspector.com/project/25151/dashboard)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5d7d633317647b2b8ccbb709f236ff5)](https://www.codacy.com/gh/LPR1234/Mini/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LPR1234/Mini&amp;utm_campaign=Badge_Grade)
+|Build	|cppcheck	|Gitinspector	|Codequality(Code inspector)|Codacy|
+|-------|-----------|---------------|---------------------------|------|
+|[![CI](https://github.com/LPR1234/Mini/actions/workflows/main.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/main.yml)|[![cppcheck-action-test](https://github.com/LPR1234/Mini/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/cppcheck.yml)|[![Contribution Check - Git Inspector](https://github.com/LPR1234/Mini/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/gitinspector.yml)|[![Code Quality Score](https://www.code-inspector.com/project/25151/score/svg)](https://frontend.code-inspector.com/project/25151/dashboard)[![Code Grade](https://www.code-inspector.com/project/25151/status/svg)](https://frontend.code-inspector.com/project/25151/dashboard)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5d7d633317647b2b8ccbb709f236ff5)](https://www.codacy.com/gh/LPR1234/Mini/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LPR1234/Mini&amp;utm_campaign=Badge_Grade)|
 
 
 
