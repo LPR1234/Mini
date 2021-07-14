@@ -12,16 +12,16 @@
 ## Folder Structure
 | **Folder**	|**Description**|
 |----------|----------|
-| 1_Requirements 	|Documents detailing requirements and research|
-| 2_Architecture	|Documents specifying design details|
-| 3_Implementation	|All code and documentation|
-| 4_Test_plan	|Documents with test plans and procedures|
+| `1_Requirements`	|Documents detailing requirements and research|
+| `2_Architecture`	|Documents specifying design details|
+| `3_Implementation`	|All code and documentation|
+| `4_Test_plan`	|Documents with test plans and procedures|
 
 ## Contributors List and Summary
 
-|SF_ID|	Name	|Features|	Issuess Raised	|Issues Resolved	|No. Test Cases	|Test Case Pass|
-|------|------------|--------|------------------|-------------------|---------------|--------------|
-|311210|    Lok Prakash Raju Goli |Stock Inventory Managment System	|Nil	|Nil	|00	|00|
+|SF_ID|	Name	|Features|	Issuess Raised	|Issues Resolved	|
+|------|------------|--------|------------------|-------------------|
+|`311210 `|    Lok Prakash Raju Goli |Stock Inventory Managment System	|Nil	|Nil	|
 
 ## How to Run
 ### - On Linux
