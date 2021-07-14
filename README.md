@@ -1,4 +1,5 @@
 # Stock Inventory Management System
+![electronics-inventory-software](https://user-images.githubusercontent.com/35807847/125568801-f05b7ffd-b5ce-4c00-a0cc-e54d510376f6.jpg)
 
 
 
@@ -6,7 +7,6 @@
 |Build	|cppcheck	|Git Inspector	|Code Quality(Code Inspector)|Codacy|
 |-------|-----------|---------------|---------------------------|------|
 |[![CI](https://github.com/LPR1234/Mini/actions/workflows/main.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/main.yml)|[![cppcheck-action-test](https://github.com/LPR1234/Mini/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/cppcheck.yml)|[![Contribution Check - Git Inspector](https://github.com/LPR1234/Mini/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/LPR1234/Mini/actions/workflows/gitinspector.yml)|[![Code Quality Score](https://www.code-inspector.com/project/25151/score/svg)](https://frontend.code-inspector.com/project/25151/dashboard)[![Code Grade](https://www.code-inspector.com/project/25151/status/svg)](https://frontend.code-inspector.com/project/25151/dashboard)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5d7d633317647b2b8ccbb709f236ff5)](https://www.codacy.com/gh/LPR1234/Mini/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LPR1234/Mini&amp;utm_campaign=Badge_Grade)|
-
 
 
 ## Folder Structure
