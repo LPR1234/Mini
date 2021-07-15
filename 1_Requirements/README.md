@@ -6,7 +6,7 @@
 
 ## Stock Inventory System
 
-This project is a console application using the C programming language. This project is compiled in visual stdio code using GCC compiler. In this cosole application you can do basic Stock Inventory System tasks like adding the new components, view components list availability , delete components, update components list, etc., .
+This project is a console application using the C programming language. This project is compiled in visual studio code using GCC compiler. In this console application you can do basic Stock Inventory System tasks like adding the new components, view components list availability , delete components, update components list, etc., .
 
 # 4W's and 1'H
 
